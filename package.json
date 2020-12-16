@@ -63,6 +63,7 @@
     "pg": "^7.18.2",
     "pg-hstore": "^2.3.2",
     "prop-types": "^15.7.2",
+    "pure-react-carousel": "^1.27.6",
     "react": "^16.13.1",
     "react-ace": "^9.1.1",
     "react-ace-editor": "0.0.3",
